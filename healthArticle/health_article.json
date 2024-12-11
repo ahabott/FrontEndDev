@@ -1,0 +1,33 @@
+{
+    "articles": [
+      {
+        "title": "The Importance of Exercise",
+        "description": "Regular exercise is essential for maintaining physical and mental health.",
+        "ways_to_achieve": [
+          "Jogging for 30 minutes daily",
+          "Joining a fitness class",
+          "Practicing yoga at home"
+        ],
+        "benefits": [
+          "Improved cardiovascular health",
+          "Better mood and reduced stress",
+          "Increased energy levels"
+        ]
+      },
+      {
+        "title": "Healthy Eating Habits",
+        "description": "Eating a balanced diet helps improve overall health and well-being.",
+        "ways_to_achieve": [
+          "Incorporate more fruits and vegetables",
+          "Reduce sugar and salt intake",
+          "Stay hydrated"
+        ],
+        "benefits": [
+          "Better weight management",
+          "Improved digestion",
+          "Stronger immune system"
+        ]
+      }
+    ]
+  }
+  
